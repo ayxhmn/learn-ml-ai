@@ -1,21 +1,20 @@
 # MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
 
-<div style="width:100%; overflow:hidden;">
-
-  <div style="float:left; width:35%; text-align: center; margin-right: 20px;">
-    <img src="./diagrams/enn-diagram-depicting-AI-ML-and-DL-hierarchy.png" alt="AI Venn Diagram" width="100%">
-    <p style="font-size: 10px;"><em>Fig: Venn diagram depicting AI, ML, and DL hierarchy.</em></p>
-  </div>
-
-  <div style="float:left; width:60%;">
-    - <strong>Artificial Intelligence (AI):</strong> The field of computer science focused on creating systems that can perform tasks requiring human-like intelligence, such as problem-solving, reasoning, perception, and decision-making.
-    <br><br>
-    - <strong>Machine Learning (ML):</strong> A subset of AI that enables computers to learn from data and improve their performance on a task without being explicitly programmed. It involves algorithms that identify patterns and make predictions or decisions based on input data.  
-    <br><br>
-    - <strong>Deep Learning (DL):</strong> A subset of ML that uses artificial neural networks with multiple layers to analyze complex patterns in large datasets. It is particularly effective in tasks like image recognition, natural language processing, and speech recognition.
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td style="width: 40%; vertical-align: top; text-align: center;">
+      <img src="./diagrams/enn-diagram-depicting-AI-ML-and-DL-hierarchy.png" alt="AI Venn Diagram" width="100%">
+      <p style="font-size: 10px;"><em>Fig: Venn diagram depicting AI, ML, and DL hierarchy.</em></p>
+    </td>
+    <td style="width: 60%; vertical-align: top;">
+      - <strong>Artificial Intelligence (AI):</strong> The field of computer science focused on creating systems that can perform tasks requiring human-like intelligence, such as problem-solving, reasoning, perception, and decision-making.
+      <br><br>
+      - <strong>Machine Learning (ML):</strong> A subset of AI that enables computers to learn from data and improve their performance on a task without being explicitly programmed. It involves algorithms that identify patterns and make predictions or decisions based on input data.
+      <br><br>
+      - <strong>Deep Learning (DL):</strong> A subset of ML that uses artificial neural networks with multiple layers to analyze complex patterns in large datasets. It is particularly effective in tasks like image recognition, natural language processing, and speech recognition.
+    </td>
+  </tr>
+</table>
 
 #### Examples of AI applications:
 - Using statistical algorithms like linear regression to predict a certain quantity.
